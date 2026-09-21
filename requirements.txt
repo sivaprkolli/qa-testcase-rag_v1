@@ -1,0 +1,20 @@
+python-dotenv
+
+# Document processing
+pypdf
+python-docx
+
+# Text splitting
+langchain-text-splitters
+
+# Embeddings
+sentence-transformers
+
+# Vector database
+faiss-cpu
+
+# LLM
+openai
+
+# Data validation / structured output
+pydantic
